@@ -1,13 +1,12 @@
 {
-  "name": "cypress sante",
-  "version": "3.1.4",
+  "name": "cypress-sante",
+  "version": "1.0",
   "description": "cypress example",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "cypress": "^3.1.4",
-    "install": "^0.12.2"
+  "dependencies": {
+    "cypress": "^3.1.3"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
